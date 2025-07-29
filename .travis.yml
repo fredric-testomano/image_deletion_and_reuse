@@ -2,7 +2,7 @@ os: linux
 dist: focal
 
 vm:
-  create:
+  use:
     name: my_test_image_to_delete
 
 script:
