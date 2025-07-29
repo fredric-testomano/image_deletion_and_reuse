@@ -1,0 +1,9 @@
+os: linux
+dist: focal
+
+vm:
+  create:
+    name: my_test_image_to_delete
+
+script:
+  - echo "TEST"
