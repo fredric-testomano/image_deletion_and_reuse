@@ -3,7 +3,6 @@ dist: focal
 
 vm:
   use:
-    name: my_test_image_to_delete
-
+    name: my_test_image_0.0.2
 script:
   - echo "TEST"
