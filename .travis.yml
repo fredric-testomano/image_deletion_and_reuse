@@ -3,7 +3,7 @@ dist: focal
 
 vm:
   use:
-    name: my_test_image_0.0.2.2
+    name: my_test_image_0.0.2.3
 script:
   - echo "TEST"
   # - ruby -e 'raise "Error!"'
