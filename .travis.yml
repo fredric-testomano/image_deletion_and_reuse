@@ -3,7 +3,7 @@ dist: focal
 
 vm:
   create:
-    name: my_test_image_0.0.2.4
+    name: my_test_image_0.0.2.5
 
 script:
   - echo "TEST"
